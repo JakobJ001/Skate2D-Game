@@ -4,6 +4,8 @@ using Microsoft.Xna.Framework.Input;
 
 namespace Skate2D_Game
 {
+
+
     /// <summary>
     /// This is the main type for your game.
     /// </summary>
